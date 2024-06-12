@@ -1,4 +1,3 @@
 *.python linguist-detectable=false
 *.css linguist-detectable=false
-*.arduino linguist-detectabe=true
-*.c linguist-detectable=true
+*.ino linguist-language=Arduino
