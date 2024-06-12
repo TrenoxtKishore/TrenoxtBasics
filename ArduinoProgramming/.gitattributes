@@ -1,0 +1,3 @@
+*.python linguist-detectable=false
+*.css linguist-detectable=false
+*.Arduino linguist-detectabe=true
